@@ -1,0 +1,14 @@
+下面推荐一些资料帮你更好的进行复习吧：
+1、《统计学习方法》经典中的经典，建议至少读两遍！
+2、《百面机器学习》对一些面试常见问题进行了总结和梳理
+3、深度学习500问：https://github.com/scutan90/DeepLearning-500-questions/
+4、SVM：http://blog.pluskid.org/?page_id=683
+5、李宏毅深度学习课：https://www.bilibili.com/video/av9770302?from=search&seid=9066694202064136038
+6、李宏毅强化学习课：https://www.bilibili.com/video/av24724071?from=search&seid=11841282802558935758
+7、李宏毅机器学习课：https://www.bilibili.com/video/av35932863?from=search&seid=7464664329294734466
+8、线性代数的本质：https://www.bilibili.com/video/av44855426?from=search&seid=15873340646320697328
+
+
+
+爬虫技能
+https://www.zybuluo.com/wade123/note/1424117
